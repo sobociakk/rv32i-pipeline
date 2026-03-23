@@ -4,18 +4,6 @@
 
 ---
 
-## Table of Contents
-
-- [Scope](#-scope--whats-included)
-- [Specifications](#-specifications)
-- [Design Trade-offs](#-design-trade-offs)
-- [Pipeline Architecture](#-how-the-pipeline-works)
-- [Hazard Handling](#-hazards--the-tricky-part)
-- [AXI4-Lite Bus](#-axi4-lite-bus)
-- [Build Roadmap](#-build-roadmap)
-
----
-
 ## Scope — What's Included
 
 | Included | 
