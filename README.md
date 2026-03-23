@@ -1,5 +1,4 @@
 # RISC-V 5-Stage Pipelined Processor
----
 
 ## Scope — What's Included
 
